@@ -34,11 +34,11 @@ To run this project, you need to have the following installed:
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/bharat1608/gmail-clone-capstone-backend.git
 cd gmail-clone-backend
 
- 2. Folder Structure
+ ## 2. Folder Structure
 
 /gmail-clone-backend
 │
@@ -60,3 +60,16 @@ cd gmail-clone-backend
 ├── server.js             # Main server file
 └── README.md             # Project documentation
 
+https://gmail-clone-capstone-backend.onrender.com/api/emails/inbox
+
+https://gmail-clone-capstone-backend.onrender.com/api/emails/sent
+
+https://gmail-clone-capstone-backend.onrender.com/api/emails/draft
+
+
+POST 
+
+https://gmail-clone-backend.onrender.com/api/users/register
+https://gmail-clone-backend.onrender.com/api/emails/inbox
+https://gmail-clone-backend.onrender.com/api/emails/draft
+https://gmail-clone-backend.onrender.com/api/emails/starred
