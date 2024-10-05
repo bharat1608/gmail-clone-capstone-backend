@@ -38,7 +38,7 @@ To run this project, you need to have the following installed:
 git clone https://github.com/bharat1608/gmail-clone-capstone-backend.git
 cd gmail-clone-backend
 
-### 2. Folder Structure
+ 2. Folder Structure
 
 /gmail-clone-backend
 │
