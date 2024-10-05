@@ -37,3 +37,26 @@ To run this project, you need to have the following installed:
 ```bash
 git clone https://github.com/bharat1608/gmail-clone-capstone-backend.git
 cd gmail-clone-backend
+
+### 2. Folder Structure
+
+/gmail-clone-backend
+│
+├── /controllers          # Controller logic for handling requests
+│   ├── emailController.js
+│   └── userController.js
+│
+├── /models               # Mongoose models for MongoDB collections
+│   ├── Email.js
+│   └── User.js
+│
+├── /routes               # Route definitions for users and emails
+│   ├── emailRoutes.js
+│   └── userRoutes.js
+│
+├── .env                  # Environment variables (not included in repo)
+├── .gitignore            # Files and directories to be ignored by git
+├── package.json          # Project dependencies and scripts
+├── server.js             # Main server file
+└── README.md             # Project documentation
+
